@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "The Mimir Project",
+  base: '/The-Mimir-Project/',
   description: "Practical knowledge for building better systems and better work",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
