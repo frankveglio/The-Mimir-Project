@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "The Mimir Project"
-  text: "Practical knowledge for building better systems and better work"
-  tagline: My great project tagline
+  # text: "Practical knowledge for building better systems and better work"
+  tagline: Practical knowledge for building better systems and better work
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Expert Insights
+    details: Learn from practical tips and proven strategies.
+  - title: Organized Knowledge
+    details: Access well-structured resources for easy learning.
+  - title: Community Contributions
+    details: Benefit from insights and updates shared by others.
 ---
 
